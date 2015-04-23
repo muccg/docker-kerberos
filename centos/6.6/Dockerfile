@@ -1,4 +1,4 @@
-FROM muccg/python-base:centos6
+FROM muccg/python-base:centos6-2.7
 MAINTAINER ccg <devops@ccg.murdoch.edu.au>
 
 ENV HOME /root
