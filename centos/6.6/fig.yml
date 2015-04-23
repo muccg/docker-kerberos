@@ -1,0 +1,10 @@
+#
+krb5:
+  build: .
+  hostname: kerberos.localdomain
+  command: supervisord
+  ports:
+    - ":9001"
+    - ":88"
+    - ":749"
+    - ":464"
