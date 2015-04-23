@@ -1,3 +1,4 @@
-# Credit to following for inspriation:
-# https://github.com/sequenceiq/docker-kerberos/
-#
+Credit to following for inspiration:
+
+https://github.com/sequenceiq/docker-kerberos/
+
