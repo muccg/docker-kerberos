@@ -1,7 +1,7 @@
 #
 krb5:
   build: .
-  hostname: kerberos.localdomain
+  hostname: kerberos.dockerdomain
   command: supervisord
   ports:
     - ":9001"
